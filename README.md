@@ -4,7 +4,6 @@
   
 </div>
 
-UI full stack development
 <hr/>
 
 ## 👩‍💻 &nbsp;About Me
