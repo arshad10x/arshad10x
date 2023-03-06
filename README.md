@@ -9,7 +9,7 @@
 
 ## 👩‍💻 &nbsp;About Me
 
-- 💡 &nbsp;I like to explore new technologies.
+- 💡 &nbsp; I like to explore new technologies.
 - 💻 &nbsp;I'm an upcomming *UI Fullstack Developer*.
 - 📌 &nbsp;I'm a fresher and actively looking for new opportunities
 - ✍️ &nbsp;Do checkout my [Portfolio](https://arshadahmed.vercel.app/)
