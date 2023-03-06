@@ -1,6 +1,6 @@
   <div align="center">
 
-## Hey 👋, I'm [Arshad](https://github.com/arshad10x)!!!
+## Hey 👋, I'm [Arshad Ahmed ](https://github.com/arshad10x)!!!
   
 </div>
 
@@ -10,7 +10,7 @@
 
 - 💡 &nbsp;I like to explore new technologies.
 - 💻 &nbsp;I'm an upcomming *UI Fullstack Developer*.
-- ✍️ &nbsp;Do checkout [My Portfolio](https://arshadahmed.vercel.app/)
+- ✍️ &nbsp;Do checkout my [Portfolio](https://arshadahmed.vercel.app/)
 - 📌 &nbsp; I am a fresher and actively looking for new opportunities
 - 📩 &nbsp;You can email me at arshadahmed10x@gmail.com.
 
