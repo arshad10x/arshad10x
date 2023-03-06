@@ -1,8 +1,7 @@
-![banner](https://user-images.githubusercontent.com/76579075/223121879-c61676cf-29dc-4021-b150-56252b629a89.png)
-
+<!-- ![banner](https://user-images.githubusercontent.com/76579075/223121879-c61676cf-29dc-4021-b150-56252b629a89.png) -->
   <div align="center">
 
-<!-- ## Hey 👋, I'm [Arshad Ahmed ](https://github.com/arshad10x)!!! -->
+## Hey 👋, I'm [Arshad Ahmed ](https://github.com/arshad10x)!!!
   
 </div>
 
@@ -12,8 +11,9 @@
 
 - 💡 &nbsp;I like to explore new technologies.
 - 💻 &nbsp;I'm an upcomming *UI Fullstack Developer*.
+- 📌 &nbsp;I'm a fresher and actively looking for new opportunities
 - ✍️ &nbsp;Do checkout my [Portfolio](https://arshadahmed.vercel.app/)
-- 📌 &nbsp; I am a fresher and actively looking for new opportunities
+- 📱  &nbsp; Connect with me on [Linkedin](https://linkedin.com/in/arshadahmed10x)
 - 📩 &nbsp;You can email me at arshadahmed10x@gmail.com.
 
 
@@ -33,13 +33,4 @@
 </div>
 
 <hr>
-
-## 💬 &nbsp;Connect With Me
-
-
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/arshadahmed10x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshadahmed10x" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/arsh10x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arsh10x" height="30" width="40" /></a>
-</p>
 
