@@ -11,7 +11,7 @@ UI full stack development
 
 - 💡 &nbsp;I like to explore new technologies.
 - 💻 &nbsp;I'm an upcomming *UI Fullstack Developer*.
-- ✍️ &nbsp;Do checkout [My Portfolio](https://arshadahmed.vercel.app/).
+- ✍️ &nbsp;Do checkout [My Portfolio](https://arshadahmed.vercel.app/)
 - 📌 &nbsp; I am a fresher and actively looking for new opportunities
 - 📩 &nbsp;You can email me at arshadahmed10x@gmail.com.
 
