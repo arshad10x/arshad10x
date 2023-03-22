@@ -30,7 +30,7 @@
 
 </p>
 
-</div>
+</div> <br><hr>
 
-<hr>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arshad10x&" alt="arshad10x" /></p>
 
