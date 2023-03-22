@@ -23,10 +23,15 @@
 <div align="left">
 <p>
   
-<img height="48px" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="48px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="48px" src="https://user-images.githubusercontent.com/110087385/210600757-c5cd4168-1913-4cb9-8c09-1d43f9a7565b.png"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="48px" src="https://user-images.githubusercontent.com/110087385/210599105-c62857b2-9401-4ecf-a0a7-f15c8e917f6f.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="48px" src="https://user-images.githubusercontent.com/110087385/210602668-e370882b-dadd-4dcc-9404-feafe5e4293c.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="55px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="55px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="48px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 </p>
 
