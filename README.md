@@ -2,7 +2,7 @@
   <div align="center">
 
 # Hey 👋, I'm [Arshad Ahmed ](https://github.com/arshad10x)!!!
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshad10&x&style=for-the-badge&color=brightgreen" alt="arshad10x" /> </p>
 </div>
 
 <hr/>
