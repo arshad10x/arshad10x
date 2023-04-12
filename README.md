@@ -13,7 +13,7 @@
   <h1>Connect with me </h1>
   
   <span>
-  <a href="[https://linkedin.com/in/arshadahmed10x](https://arshadahmed.vercel.app/)">
+  <a href="https://arshadahmed.vercel.app/">
       <img src="https://img.shields.io/badge/portfolio-E6007A?style=for-the-badge&logo=polkadot&logoColor=white">
 
   </a>
