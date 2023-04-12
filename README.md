@@ -8,7 +8,7 @@
 <hr>
   
 </div>
-<div align="left">
+<div align="center">
   
   <h1>Connect with me </h1>
   
@@ -47,10 +47,12 @@
  </div>
 
 
-## 🖥️ &nbsp;Tech Stack
 
-<div align="left">
-<p>
+
+<div align="center">
+ <h1>🖥️ Tech Stack </h1>
+
+  <p>
 
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -85,6 +87,6 @@
 
 </div> <br><hr>
 
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arshad10x&theme=highcontrast" alt="arshad10x" /></p>
+  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=arshad10x&theme=highcontrast" alt="arshad10x" /></p>
   
 
