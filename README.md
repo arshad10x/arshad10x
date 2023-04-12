@@ -1,6 +1,6 @@
   <div align="center">
   
- <video src="https://user-images.githubusercontent.com/76579075/231422562-b4b59100-6be5-4740-8790-09a618c85d89.mp4" autoplay type="video/mp4">
+ <video controls autoplay src="https://user-images.githubusercontent.com/76579075/231422562-b4b59100-6be5-4740-8790-09a618c85d89.mp4"  type="video/mp4">
 </video>
   
 
