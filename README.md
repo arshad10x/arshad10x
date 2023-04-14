@@ -28,9 +28,10 @@
   </span>
   
    <span>
-     <a href="arshadahmed10x@gmail.com">
+
+<a href="mailto:arshadahmed10x@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arshad10x" /> 
-     </a>
+ 
 </span>
   
   
