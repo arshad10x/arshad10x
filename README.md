@@ -15,7 +15,6 @@
   <span>
   <a href="https://arshadahmed.vercel.app/">
       <img src="https://img.shields.io/badge/portfolio-E6007A?style=for-the-badge&logo=polkadot&logoColor=white">
-
   </a>
   </span>
   
@@ -47,14 +46,9 @@
   
  </div>
 
-
-
-
 <div align="center">
  <h1>🖥️ Tech Stack </h1>
-
   <p>
-
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </span>
