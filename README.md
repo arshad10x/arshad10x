@@ -82,5 +82,6 @@
 
 </div> <br><hr>
 
-  
+    <p align="center"><img  src="https://github-readme-streak-s?tats.herokuapp.com/?user=arshad10x&theme=highcontrast" alt="arshad10x" /></p>
+
 
