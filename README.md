@@ -76,12 +76,9 @@
 <span>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </span>
-
-
 </p>
 
 </div> <br><hr>
 
-    <p align="center"><img  src="https://github-readme-streak-s?tats.herokuapp.com/?user=arshad10x&theme=highcontrast" alt="arshad10x" /></p>
-
+<!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=arshad10x&theme=highcontrast" alt="arshad10x"/> -->
 
