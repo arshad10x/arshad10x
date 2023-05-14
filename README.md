@@ -64,7 +64,15 @@
 <span>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </span>
-
+    
+<span>
+<img src="https://img.shields.io/badge/Nodejs-008000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</span>
+    
+<span>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</span>
+    
 <span>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </span>
