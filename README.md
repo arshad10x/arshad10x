@@ -8,7 +8,7 @@
 <hr>
    -->
   <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=header"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Arshad+Ahmed;I'm+a+UI+Developer;Be+Welcome!+ツ)
@@ -94,9 +94,13 @@
  </div>
 <br><br>
  <br>
+    https://github.com/{{arshad10x}}/{{arshad10x}}
+ <br>
   <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
 </a>
+
+
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshad10x" alt="arshad10x" /></a> </p> -->
 <!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=arshad10x&theme=highcontrast" alt="arshad10x"/> -->
 
