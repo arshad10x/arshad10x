@@ -94,7 +94,7 @@
  </div>
 <br><br>
  <br>
-    https://github.com/{{arshad10x}}/{{arshad10x}}
+   ![Snake animation](https://github.com/arshad10x/arshad10x/blob/output/github-contribution-grid-snake.svg)
  <br>
   <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
