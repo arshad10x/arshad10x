@@ -92,15 +92,14 @@
   </span> -->
   
  </div>
-<br><br>
- <br>
-   ![Snake animation](https://github.com/arshad10x/arshad10x/blob/output/github-contribution-grid-snake.svg)
- <br>
+
+
+ 
   <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
 </a>
 
-
+![Snake animation](https://github.com/arshad10x/arshad10x/blob/output/github-contribution-grid-snake.svg)
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshad10x" alt="arshad10x" /></a> </p> -->
 <!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=arshad10x&theme=highcontrast" alt="arshad10x"/> -->
 
