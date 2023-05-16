@@ -8,14 +8,14 @@
 <hr>
    -->
   <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Jefferson;I'm+from+Brazil;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Arshad+Ahmed;I'm+a+UI+Developer;Be+Welcome!+ツ)
 </div>
 <div align="center">
  
-  <h1>Connect with me </h1>
+<!--   <h1>Connect with me </h1> -->
   
   <span>
   <a href="https://arshadahmed.vercel.app/">
@@ -37,7 +37,7 @@
 </span>
   
   
-  <span>
+<!--   <span>
   <a href="https://medium.com/@ahmed.a0611">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
@@ -47,7 +47,7 @@
   <a href="https://join.slack.com/t/developers-iji6344/shared_invite/zt-1t2iymhtg-xDfBeuCXXPSHRUQg1UwWHg">
        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   </a>
-  </span>
+  </span> -->
   
  </div>
 
