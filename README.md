@@ -16,48 +16,6 @@
 <br> <br> 
 
 <div align="center">
-<!--  <h1>🖥️ Tech Stack </h1> -->
-  <p>
-<span>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</span>
-
-<span>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</span>
-
-<span>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</span>
-
-<span>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</span>
-    
-<span>
-<img src="https://img.shields.io/badge/Nodejs-008000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</span>
-    
-<span>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-</span>
-    
-<span>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</span>
-
-<span>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</span>
-
-<span>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-</span>
-</p>
-
-</div>
-<br> <br> 
-<div align="center">
  
 <!--   <h1>Connect with me </h1> -->
   
@@ -79,8 +37,47 @@
   </a>
   </span>
   
-   
-  
+   <br> <br> 
+  <div align="center">
+<!--  <h1>🖥️ Tech Stack </h1> -->
+  <p>
+<span>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</span>
+&nbsp;&nbsp;
+<span>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</span>
+&nbsp;&nbsp;
+<span>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</span>
+&nbsp;&nbsp;
+<span>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</span>
+   &nbsp;&nbsp; 
+<span>
+<img src="https://img.shields.io/badge/Nodejs-008000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</span>
+    <br> <br>
+<span>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</span>
+    &nbsp;&nbsp;
+<span>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</span>
+&nbsp;&nbsp;
+<span>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</span>
+&nbsp;&nbsp;
+<span>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</span>
+</p>
+</div>
   
 <!--   <span>
   <a href="https://medium.com/@ahmed.a0611">
@@ -98,7 +95,7 @@
 <br><br>
  <br>
   <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
 </a>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshad10x" alt="arshad10x" /></a> </p> -->
 <!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=arshad10x&theme=highcontrast" alt="arshad10x"/> -->
