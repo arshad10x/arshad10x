@@ -11,7 +11,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0080ff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Arshad+Ahmed;I'm+a+UI+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Arshad+Ahmed;I'm+a+UI+Developer;Be+Welcome!+ツ)
 </div>
 <br> <br> 
 
