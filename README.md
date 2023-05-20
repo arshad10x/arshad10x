@@ -8,7 +8,7 @@
 <hr>
    -->
   <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Arshad+Ahmed;I'm+a+UI+Developer;Be+Welcome!+ツ)
@@ -96,7 +96,7 @@
 
  
   <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
 ![Snake animation](https://github.com/arshad10x/arshad10x/blob/output/github-contribution-grid-snake.svg)
