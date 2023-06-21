@@ -16,7 +16,7 @@
 <br> <br> 
 
 <div align="center">
-  <br>
+<!--   <br>
   <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arshad10x&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
   </a>
@@ -26,7 +26,7 @@
 </div> 
    
 <br>
-<br>
+<br> -->
 <div align="center">
  
 <!--   <h1>Connect with me </h1> -->
@@ -105,13 +105,15 @@
   
  </div>
 
-<!-- [![Arshad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshad10x&theme=rogue)](https://github.com/arshad10x/github-readme-activity-graph) -->
+<!--  [![Arshad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshad10x&theme=rogue)](https://github.com/arshad10x/github-readme-activity-graph) -->
  
-  <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
-</a>
+ 
 
 ![Snake animation](https://github.com/arshad10x/arshad10x/blob/output/github-contribution-grid-snake.svg)
+
+ <a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshad10x" alt="arshad10x" /></a> </p> -->
 <!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=arshad10x&theme=highcontrast" alt="arshad10x"/> -->
 
