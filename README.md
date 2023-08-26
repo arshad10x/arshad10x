@@ -104,7 +104,7 @@
   
  </div>
 
-<!--  [![Arshad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshad10x&theme=rogue)](https://github.com/arshad10x/github-readme-activity-graph) -->
+ [![Arshad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshad10x&theme=rogue)](https://github.com/arshad10x/github-readme-activity-graph) 
  
  
 
