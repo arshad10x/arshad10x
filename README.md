@@ -32,16 +32,11 @@
   
   <span>
   <a href="https://arshadahmed.vercel.app/">
-      <img src="https://img.shields.io/badge/portfolio-E6007A?style=for-the-badge&logo=supabase&logoColor=white">
+      <img src="https://img.shields.io/badge/portfolio-E6007A?style=for-the-badge&logo=supabase&logoColor=white"/>
   </a>
   </span>
   &nbsp;&nbsp;
   
-<!--   <span>
-  <a href="mailto:arshadahmed10x@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arshad10x" /> 
-  </span>
-    &nbsp;&nbsp; -->
   <span>
   <a href="https://linkedin.com/in/arshadahmed10x">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -87,6 +82,10 @@
 <span>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </span>
+    <span>
+<img src="https://img.shields.io/badge/Redux-563D7C?style=for-the-badge&logo=redux&logoColor=white" />
+</span>
+&nbsp;&nbsp;
 </p>
 </div>
   
