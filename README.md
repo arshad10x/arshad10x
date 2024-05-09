@@ -31,7 +31,7 @@
 <!--   <h1>Connect with me </h1> -->
   
   <span>
-  <a href="https://arshadahmed.vercel.app/">
+  <a href="https://arshad10x.vercel.app/">
       <img src="https://img.shields.io/badge/portfolio-E6007A?style=for-the-badge&logo=supabase&logoColor=white"/>
   </a>
   </span>
